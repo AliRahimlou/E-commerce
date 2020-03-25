@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({price}) => {
         name= 'E-MIXED'
         billingAddress
         shippingAddress
-        image='https://e-mixed.com/wp-content/uploads/2019/11/cropped-E-Mixed-scaled.png'
+        image='https://sendeyo.com/up/d/f3eb2117da'
         description={`Your total is $${price}`}
         ammount={priceForStripe}
         panelLabel='Pay Now'
