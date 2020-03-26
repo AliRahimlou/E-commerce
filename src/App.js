@@ -36,7 +36,7 @@ componentDidMount(){
          });
      });
    }
-   setCurrentUser(userAuth)
+   setCurrentUser(userAuth);
   });
 }
 
